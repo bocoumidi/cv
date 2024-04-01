@@ -114,7 +114,7 @@
 ## ❤️ Passions
 
 👟 **Sports**: football ⚽️, basketball 🏀, gym 🏋🏾‍♂️, natation 🏊🏾‍♂️ <br/>
-✈️ **Voyager**: Senegal 🇸🇳, France 🇫🇷, Belgium 🇧🇪, Germany 🇩🇪 Italie :it:, Espagne :es:, Luxembourg 🇱🇺 <br/>
+✈️ **Voyager**: Senegal 🇸🇳, France 🇫🇷, Belgium 🇧🇪, Germany 🇩🇪 Italie 🇮🇹 , Espagne 🇪🇸, Luxembourg 🇱🇺 <br/>
 📚 **Lecture**: <br/>
 🎮 **Jeux Vidéos**: sports, adventure 
 
