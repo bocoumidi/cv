@@ -22,13 +22,11 @@
 
 **Data Analyste / Chargé Data et Conformité** @ [PRO BTP GROUPE](https://groupe.probtp.com/) 🇫🇷 (<u>Vincennes</u>) _(Octobre 2022 - Mars 2024)_
 
-- **_Pilotage de la conformité des traitements de #données mis en œuvre sur les outils de l’écosystème digital_**
+- **_Pilotage de la conformité des traitements de données mis en œuvre sur les outils de l’écosystème digital_**
 
 - Contribuer à la construction des cartographies techniques des outils et des flux d’échange des données de l'écosystème digital,
 - Définir, formaliser et mettre en place les processus et méthodologies de traitement des demandes RGPD en Build et Run pour la direction,
 - Auditer les flux de données et les requêtes pour s’assurer que les traitements respectent la réglementation sur la protection des données
-- Piloter la bonne mise en œuvre, gestion et documentation des flux de données devant répondre à des enjeux de respect de la législation sur les données personnelles
-- Faire appliquer et faire évoluer les règles de gouvernance des données au sein de la direction
 
 - **_Maintien et évolution de la donnée liée aux outils #marketing et commerciaux_** 
 
@@ -36,30 +34,21 @@
 - S’assurer du bon fonctionnement d’alimentation des flux et de la qualité des données
 - S'assurer de la mise à jour des référentiels et de la documentation des données
 - Contribuer à la production et à l’analyse des rendements des campagnes marketing(Dashbord avec TIBCO Spotfire)
-- Contribuer au cadrage, à la conception, aux développements et à la recette des évolutions données et piloter celles-ci
 
 - **_Contributions aux projets Data et RGPD du groupe_**
 
-- Contribuer à l’élaboration de la feuille de route de la direction,
 - Assurer un rôle d’expertise technique, d’analyse, et de conseil sur la faisabilité des demandes des clients dans le cadre des projets
 - Pilotage de la conformité des traitements de données mis en œuvre sur les outils de l’écosystème digital
 - Contribuer à la construction des cartographies techniques des outils et des flux d’échange des données de l'écosystème digital
 - Définir, formaliser et mettre en place les processus et méthodologies de traitement des demandes RGPD en Build et Run pour la direction
 - Auditer les flux de données et les requêtes pour s’assurer que les traitements respectent la réglementation sur la protection des données
-- Piloter la bonne mise en œuvre, gestion et documentation des flux de données devant répondre à des enjeux de respect de la législation sur les données personnelles
-- Faire appliquer et faire évoluer les règles de gouvernance des données au sein de la direction
-- Faire appliquer les règles RGPD dans les outils de l’écosystème digital
-- Maintien et évolution de la donnée liée aux outils marketing et commerciaux
 - Analyser, qualifier, prioriser et suivre les demandes de corrections
-- S’assurer du bon fonctionnement d’alimentation des flux et de la #qualité des données
+- S’assurer du bon fonctionnement d’alimentation des flux et de la qualité des données
 - S'assurer de la mise à jour des référentiels et de la documentation des données
-- Contribuer à la production et à l’analyse des rendements des campagnes marketing(Dashbord avec TIBCO #Spotfire)
 - Contribuer au cadrage, à la conception, aux développements et à la recette des évolutions données et piloter celles-ci
-- Contributions aux projets Data et RGPD du groupe
-- Contribuer à l’élaboration de la feuille de route de la direction
 -  Assurer un rôle d’expertise technique, d’analyse, et de conseil sur la faisabilité des demandes des clients dans le cadre des projets.
-- **_Concepts utilisés_**: Data Migration, Data Visualisation, Data Analysis, RGPD
-- **_Technologies utilisées_**: python, sql, spotfire, Adobe Campaign
+- **_Concepts utilisés_**: Data Migration, Data Visualisation, Data Analysis, RGPD, CSI
+- **_Technologies utilisées_**: python, sql, spotfire, Adobe Campaign, collibra
 
 ---
 
