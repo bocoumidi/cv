@@ -80,10 +80,10 @@
 
 **Assistant Utilisateur SAP** @ [DFC NANTERRE](https://www.parisnanterre.fr/) 🇺🇸 (<u>Nanterre</u>) _(Septembre 2019 - Août 2020)_
 
--Montée en puissance sur SAP (Comptabilité budgétaire, dépenses, missions, recettes)
--Assistance utilisateur à l'aide de helpdesk (GPLI), support par téléphone et mail
--Mise en qualité des Bases_de_données : Clients, fournisseurs et référentiels.
--Développement d'outils d'automatisations en VB
+- Montée en puissance sur SAP (Comptabilité budgétaire, dépenses, missions, recettes)
+- Assistance utilisateur à l'aide de helpdesk (GPLI), support par téléphone et mail
+- Mise en qualité des Bases_de_données : Clients, fournisseurs et référentiels.
+- Développement d'outils d'automatisations en VB
 - **_Concepts utilisés_**: Programmation fonctionnel
 - **_Technologies utilisées_**: vba , SAP, sql
 
