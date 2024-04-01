@@ -78,7 +78,7 @@
 ---
 
 
-**Assistant Utilisateur SAP** @ [DFC NANTERRE](https://www.parisnanterre.fr/) 🇺🇸 (<u>Nanterre</u>) _(Septembre 2019 - Août 2020)_
+**Assistant Utilisateur SAP** @ [DFC NANTERRE](https://www.parisnanterre.fr/) 🇺🇸 (<u>Nanterre</u>) _(Septembre 2019 - Août 2020)
 
 - Montée en puissance sur SAP (Comptabilité budgétaire, dépenses, missions, recettes)
 - Assistance utilisateur à l'aide de helpdesk (GPLI), support par téléphone et mail
@@ -123,13 +123,13 @@
 **Master Data Engineer & Data Scientist**<br/>
 Paris Ynov Campus, France 🇫🇷 2020-2022
 
-**Licence MIAGE **<br/>
+**_Licence MIAGE_**<br/>
 Université Paris Nanterre, France 🇫🇷, 2019-2020
 
-**DUT Informatique année spéciale **<br/>
+**_DUT Informatique année spéciale_**<br/>
 Université de Lorraine, France 🇫🇷 2017-2018
 
-**Licence 2 Informatique de Gestion **<br/>
+**_Licence 2 Informatique de Gestion_**<br/>
 Institu Supérieur D'Informatique, Sénégal 🇸🇳, 2015-2017
  
 
