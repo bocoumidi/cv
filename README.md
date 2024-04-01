@@ -4,7 +4,7 @@
 
 ##  💼 Expérience Professionnelles 
 
-**Consultant Ingénieur d'étude** @ [BPCE GROUPE](https://groupebpce.com/) 🇺🇸 (<u>Paris 13e</u>) _(Avril 2024 - Aujourd'hui)_
+**Consultant Ingénieur d'étude** @ [BPCE GROUPE](https://groupebpce.com/) 🇫🇷 (<u>Paris 13e</u>) _(Avril 2024 - Aujourd'hui)_
 
 - Assurer le bon déroulement de la production applicative : suivi de traitement, pilotage des processus applicatifs technico-fonctionnels comme un responsable d’application.
 - Préparer et suivre l’exécution des chronogrammes périodiques.
@@ -20,7 +20,7 @@
 - **_Concepts utilisés_**: agilité, programmation de script, suivi de production
 - **_Technologies utilisées_**: python, sql, shell unix
 
-**Data Analyste / Chargé Data et Conformité** @ [PRO BTP GROUPE](https://groupe.probtp.com/) 🇺🇸 (<u>Vincennes</u>) _(Octobre 2022 - Mars 2024)_
+**Data Analyste / Chargé Data et Conformité** @ [PRO BTP GROUPE](https://groupe.probtp.com/) 🇫🇷 (<u>Vincennes</u>) _(Octobre 2022 - Mars 2024)_
 
 - **_Pilotage de la conformité des traitements de #données mis en œuvre sur les outils de l’écosystème digital_**
 
@@ -64,7 +64,7 @@
 ---
 
 
-**Développeur Python** @ [SADE CGTH](https://www.sade-cgth.fr/) 🇺🇸 (<u>Paris 14</u>) _(Janvier 2021 - Septembre 2022)_
+**Développeur Python** @ [SADE CGTH](https://www.sade-cgth.fr/) 🇫🇷 (<u>Paris 14</u>) _(Janvier 2021 - Septembre 2022)_
 
 - Développement d'outils d'automatisation et création de nouvelles fonctionnalités (via API) sur Smartsheet
 - Développement d'applications bureau avec python (connecteur de lecteur réseau et partage de fichiers)
@@ -78,7 +78,7 @@
 ---
 
 
-**Assistant Utilisateur SAP** @ [DFC NANTERRE](https://www.parisnanterre.fr/) 🇺🇸 (<u>Nanterre</u>) _(Septembre 2019 - Août 2020)
+**Assistant Utilisateur SAP** @ [DFC NANTERRE](https://www.parisnanterre.fr/) 🇫🇷 (<u>Nanterre</u>) _(Septembre 2019 - Août 2020)
 
 - Montée en puissance sur SAP (Comptabilité budgétaire, dépenses, missions, recettes)
 - Assistance utilisateur à l'aide de helpdesk (GPLI), support par téléphone et mail
@@ -89,7 +89,7 @@
 
 ---
   
-**Développeur Web** @ [VCI LUXE] 🇺🇸 (<u>Paris 14</u>) _(Juillet 2018 - Septembre 2018)_
+**Développeur Web** @ [VCI LUXE] 🇱🇺 (<u>Paris 14</u>) _(Juillet 2018 - Septembre 2018)_
 
 - Développement d’un ERP (Enterprise Resource Planning) ou également appelé PGI (Progiciel de Gestion Intégré)
 - Développement backend(doctrine, SQL, PHP)
