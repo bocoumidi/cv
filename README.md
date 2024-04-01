@@ -116,20 +116,20 @@
 👟 **Sports**: football ⚽️, basketball 🏀, gym 🏋🏾‍♂️, natation 🏊🏾‍♂️ <br/>
 ✈️ **Voyager**: Senegal 🇸🇳, France 🇫🇷, Belgium 🇧🇪, Germany 🇩🇪 Italie :it:, Espagne :es:, Luxembourg 🇱🇺 <br/>
 📚 **Lecture**: <br/>
-🎮 **Video games**: sports, adventure 
+🎮 **Jeux Vidéos**: sports, adventure 
 
 ## 👨🏾‍🎓 Formations
 
 **Master Data Engineer & Data Scientist**<br/>
 Paris Ynov Campus, France 🇫🇷 2020-2022
 
-**_Licence MIAGE_**<br/>
+**Licence MIAGE**<br/>
 Université Paris Nanterre, France 🇫🇷, 2019-2020
 
-**_DUT Informatique année spéciale_**<br/>
+**DUT Informatique année spéciale**<br/>
 Université de Lorraine, France 🇫🇷 2017-2018
 
-**_Licence 2 Informatique de Gestion_**<br/>
+**Licence 2 Informatique de Gestion**<br/>
 Institu Supérieur D'Informatique, Sénégal 🇸🇳, 2015-2017
  
 
