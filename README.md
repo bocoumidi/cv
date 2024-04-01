@@ -2,7 +2,7 @@
 
 🧑🏾‍💻🌎 _Ingénieur d'étude / Data analyste_
 
-##  💼 Expérience Professionnelles 
+##  💼 Expériences Professionnelles 
 
 **Consultant Ingénieur d'étude** @ [BPCE GROUPE](https://groupebpce.com/) 🇫🇷 (<u>Paris 13e</u>) _(Avril 2024 - Aujourd'hui)_
 
