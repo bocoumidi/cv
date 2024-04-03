@@ -4,20 +4,20 @@
 
 ##  💼 Expériences Professionnelles 
 
-**Consultant Ingénieur d'étude** @ [BPCE GROUPE](https://groupebpce.com/) 🇫🇷 (<u>Paris 13e</u>) _(Avril 2024 - Aujourd'hui)_
+**Ingénieur d'étude** @ [BPCE GROUPE](https://groupebpce.com/) 🇫🇷 (<u>Paris 13e</u>) _(Avril 2024 - Aujourd'hui)_
 
-- Assurer le bon déroulement de la production applicative : suivi de traitement, pilotage des processus applicatifs technico-fonctionnels comme un responsable d’application.
+- Assurer le bon déroulement de la production applicative : suivi de traitement, pilotage des processus applicatifs technico-fonctionnels
 - Préparer et suivre l’exécution des chronogrammes périodiques.
 - Coordonner et garantir le respect des différents jalons des arrêtés
 - Exploitation des logs et compte rendu de traitements.
 - Gestion des incidents et problèmes, suivi et le pilotage de leur résolution :
-* Analyse et diagnostic si nécessaire par requêtes SQL afin d'apporter une expertise au métier et apprécier une situation, ses impacts et sa criticité.
+* Analyse et diagnostic afin d'apporter une expertise au métier et apprécier une situation, ses impacts et sa criticité.
 * Pilotage des plans d’action de remédiation en lien avec les équipes métier MOA et N3.
-* Alimentation des journaux d’incidents/ problèmes,
+* Alimentation des journaux d’incidents/ problèmes
 * Rédaction des rapports d’incidents
 - Communication avec les métiers et N3 via publication de compte rendu de production.
 - Maintien / Mise à jour de la documentation de production (exploitation, …)
-- **_Concepts utilisés_**: agilité, programmation de script, suivi de production
+- **_Concepts utilisés_**: sémi agilité, programmation de script, suivi de production, pilotage
 - **_Technologies utilisées_**: python, sql, shell unix
 
 **Data Analyste / Chargé Data et Conformité** @ [PRO BTP GROUPE](https://groupe.probtp.com/) 🇫🇷 (<u>Vincennes</u>) _(Octobre 2022 - Mars 2024)_
