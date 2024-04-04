@@ -5,7 +5,8 @@
 ##  💼 Expériences Professionnelles 
 
 **Pilote de production** @ [BPCE GROUPE](https://groupebpce.com/) 🇫🇷 (<u>Paris 13e</u>) _(Avril 2024 - Aujourd'hui)_ 
-_Mission à réaliser_
+
+- _Mission à réaliser_
 
 - Assurer le bon déroulement de la production applicative : suivi de traitement, pilotage des processus applicatifs technico-fonctionnels
 - Préparer et suivre l’exécution des chronogrammes périodiques.
