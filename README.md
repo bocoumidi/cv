@@ -2,6 +2,8 @@
 
 🧑🏾‍💻🌎 _Pilote de production / Data analyste_
 
+Profil technico-fonctionnel polyvalent, avec une expertise en data analyse, pilotage de production et gestion applicative, notamment dans les environnements banque et assurance. Maîtrise de SQL pour l’exploitation de données, de Power BI pour la visualisation et le reporting, ainsi que de Python et Unix pour l’automatisation et le traitement de flux. À l’interface entre les équipes métiers et techniques, je veille à la qualité des données, à la performance des applications et à l’optimisation des processus opérationnels
+
 ##  💼 Expériences Professionnelles 
 
 **Responsable Applicatif / Pilote de production** @ [BPCE GROUPE](https://groupebpce.com/) 🇫🇷 (<u>Paris 13e</u>) _(Avril 2024 - Aujourd'hui)_ 
