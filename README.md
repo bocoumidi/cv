@@ -125,7 +125,7 @@ Université de Lorraine, France 🇫🇷 2017-2018
 Institu Supérieur D'Informatique, Sénégal 🇸🇳, 2015-2017
 
 ---
-[!Télécharger ce CV en PDF](https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20le%20PDF-blue)](https://github.com/bocoumidi/cv/blob/main/Bocoum_Idy_CV.pdf) 
+[!Télécharger ce CV en PDF](https://github.com/bocoumidi/cv/blob/main/Bocoum_Idy_CV.pdf)
  
 
 
