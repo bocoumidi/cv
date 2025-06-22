@@ -6,7 +6,7 @@ Profil technico-fonctionnel polyvalent, avec une expertise en data analyse, pilo
 
 ##  💼 Expériences Professionnelles 
 
-**Responsable Applicatif / Pilote de production** @ [BPCE GROUPE](https://groupebpce.com/) 🇫🇷 (<u>Paris 13e</u>) _(Avril 2024 - Aujourd'hui)_ 
+**Consultant Responsable Applicatif / Pilote de production** @ [BPCE GROUPE](https://groupebpce.com/) 🇫🇷 (<u>Paris 13e</u>) _(Avril 2024 - Aujourd'hui)_ 
 
 
 - Assurer le bon déroulement de la production applicative : suivi de traitement, pilotage des processus applicatifs technico-fonctionnels
